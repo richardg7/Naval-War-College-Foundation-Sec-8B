@@ -21,6 +21,7 @@ O script `egn.py` permite:
 - Dependências:
   ```bash
   pip install torch transformers psutil
+  pip install transformers
   ```
 
 > 💡 Sugestão: `pip install bitsandbytes` para quantização alternativa em 8-bit.
