@@ -23,9 +23,9 @@ O script `egn.py` permite:
   pip install torch transformers psutil
   ```
   ou
- ```bash
-  pip install transformers
- ```
+  ```bash
+    pip install transformers
+  ```
 
 > 💡 Sugestão: `pip install bitsandbytes` para quantização alternativa em 8-bit.
 
@@ -88,4 +88,5 @@ Caso ocorra erro de memória insuficiente:
 
 ## ✍️ Autor
 
+[Richard Guedes](https://www.linkedin.com/in/richard-guedes/)
 Este script foi desenvolvido com foco em desempenho, compatibilidade e acessibilidade para pesquisadores e profissionais que desejam experimentar modelos LLaMA localmente com recursos limitados.
